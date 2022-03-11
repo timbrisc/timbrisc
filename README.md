@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @timbrisc
-- 👀 I’m interested in lots of things
+- 👀 I’m interested in Health Data Standards
 - 🌱 I’m currently learning everything I can
 - 📫 Reach me on [Twitter](https://twitter.com/tbriscoe)
 
